@@ -1,0 +1,50 @@
+
+.page {
+  width: 380px;
+ height: 500px;
+ overflow: scroll;
+}
+  body {
+  margin-top: 200px;
+  background-color: #FFE4E1;
+  text-align: center;
+}
+
+h1 {
+  font-size: 50px;
+  margin-bottom: 15px;
+  font-family: verdana;
+}
+
+h2 {
+  font-size: 30px;
+  margin-bottom: 15px;
+  font-weight: 10px;
+  font-family: verdana;
+}
+
+p {
+  font-weight: 10px;
+  margin-bottom: 10px;
+  width: 320px;
+  padding-left: 50px;
+}
+
+a:link {
+  color: white;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+}
+
+button {
+  background-color: black;
+  color: white;
+ text-align: center;
+  border-radius: 20px;
+  text-decoration: none;
+  padding: 12px 25px;
+  font-size: 18px;
+}
